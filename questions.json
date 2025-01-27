@@ -1,0 +1,114 @@
+[
+  {
+    "question": "O que é hanseníase (ou lepra)?",
+    "choice1": "Uma doença causada por vírus que afeta o pulmão.",
+    "choice2": "Uma doença causada por bactérias que afeta a pele e os nervos.",
+    "choice3": "Uma doença genética que causa manchas na pele.",
+    "choice4": "Uma alergia provocada pelo contato com poeira.",
+    "answer": 2
+  },
+  {
+    "question": "Em sua opinião, em nosso município existem pessoas com hanseníase?",
+    "choice1": "Não, a hanseníase foi erradicada.",
+    "choice2": "Sim, mas apenas em áreas muito pobres.",
+    "choice3": "É possível, especialmente se houver histórico de casos ou diagnóstico precoce limitado.",
+    "choice4": "Não, porque a doença não ocorre mais no Brasil.",
+    "answer": 3
+  },
+  {
+    "question": "Quais os principais sinais e sintomas da hanseníase?",
+    "choice1": "Manchas escuras e dolorosas na pele.",
+    "choice2": "Manchas claras ou avermelhadas com perda de sensibilidade, formigamento e dormência.",
+    "choice3": "Febre alta e espessamento da pele.",
+    "choice4": "Manchas escuras e coceira intensa.",
+    "answer": 2
+  },
+  {
+    "question": "Como a hanseníase é transmitida?",
+    "choice1": "Pelo contato com objetos contaminados, como roupas.",
+    "choice2": "Pelo consumo de alimentos crus.",
+    "choice3": "Pelo contato prolongado com pessoas infectadas que não estão em tratamento.",
+    "choice4": "Pelo contato direto com animais.",
+    "answer": 3
+  },
+  {
+    "question": "O que você deve sentir ao saber que um colega está em tratamento para hanseníase?",
+    "choice1": "Preocupação, porque a doença é altamente contagiosa.",
+    "choice2": "Medo de pegar a doença e evitar contato.",
+    "choice3": "Compreensão, porque a doença não é facilmente transmitida durante o tratamento.",
+    "choice4": "Indiferença, porque não é algo que me afeta diretamente.",
+    "answer": 3
+  },
+  {
+    "question": "Quem pode contrair hanseníase?",
+    "choice1": "Apenas pessoas em áreas rurais.",
+    "choice2": "Apenas quem já tem doenças de pele.",
+    "choice3": "Qualquer pessoa, mas o risco é maior em condições de vulnerabilidade social.",
+    "choice4": "Somente crianças e idosos.",
+    "answer": 3
+  },
+  {
+    "question": "Como se confirma o diagnóstico de hanseníase?",
+    "choice1": "Por exames de sangue.",
+    "choice2": "Por observação de manchas na pele.",
+    "choice3": "Por avaliação clínica, exames como baciloscopia ou biópsia e análise dos sinais cardinais.",
+    "choice4": "Por testes genéticos.",
+    "answer": 3
+  },
+  {
+    "question": "A hanseníase tem cura?",
+    "choice1": "Sim, com tratamento adequado e acompanhamento médico.",
+    "choice2": "Não, a hanseníase é incurável.",
+    "choice3": "Sim, mas apenas para formas leves da doença.",
+    "choice4": "Não, mas é possível controlar os sintomas.",
+    "answer": 1
+  },
+  {
+    "question": "Como é feito o tratamento da hanseníase?",
+    "choice1": "Com vacinas e repouso absoluto.",
+    "choice2": "Com medicamentos específicos, como rifampicina, dapsona e clofazimina.",
+    "choice3": "Com pomadas para a pele e antibióticos leves.",
+    "choice4": "Com sessões de fisioterapia e suplementos vitamínicos.",
+    "answer": 2
+  },
+  {
+    "question": "Quanto tempo pode durar o tratamento da hanseníase?",
+    "choice1": "De 3 a 6 meses.",
+    "choice2": "De 6 a 12 meses, dependendo do caso.",
+    "choice3": "Mais de 2 anos.",
+    "choice4": "Apenas 1 mês, se os sintomas forem leves.",
+    "answer": 2
+  },
+  {
+    "question": "Quais consequências físicas a hanseníase pode causar?",
+    "choice1": "Manchas temporárias na pele.",
+    "choice2": "Febre crônica e fraqueza muscular.",
+    "choice3": "Perda de sensibilidade, deformidades e incapacidades físicas.",
+    "choice4": "Queda de cabelo e unhas quebradiças.",
+    "answer": 3
+  },
+  {
+    "question": "Como os profissionais de saúde podem prevenir as consequências da hanseníase?",
+    "choice1": "Fazendo campanhas de vacinação.",
+    "choice2": "Tratando os pacientes corretamente e monitorando regularmente a função neural.",
+    "choice3": "Indicando tratamentos alternativos e naturais.",
+    "choice4": "Orientando o paciente a evitar contato com outras pessoas.",
+    "answer": 2
+  },
+  {
+    "question": "Como os profissionais de saúde podem reduzir o número de casos de hanseníase?",
+    "choice1": "Realizando campanhas educativas e identificando casos precocemente.",
+    "choice2": "Distribuindo medicamentos preventivos em massa.",
+    "choice3": "Proibindo a circulação de pessoas com sintomas.",
+    "choice4": "Indicando internação de pessoas em áreas endêmicas.",
+    "answer": 1
+  },
+  {
+    "question": "O que você deve fazer caso veja ou saiba de alguém com sintomas de hanseníase?",
+    "choice1": "Encaminhar a pessoa ao serviço de saúde mais próximo.",
+    "choice2": "Evitar qualquer contato com a pessoa.",
+    "choice3": "Denunciar a pessoa às autoridades locais.",
+    "choice4": "Ignorar, porque não é minha responsabilidade.",
+    "answer": 1
+  }
+]

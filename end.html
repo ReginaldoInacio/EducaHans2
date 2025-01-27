@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Parabéns!</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="end" class="flex-center flex-column">
+        <div> <img src="educahans2/sources/8139238.jpg" alt="Imagem final" class="img-logo-inicio"></div>
+        <h2> Sua pontuação final é:</h2>
+        <h1 id="finalScore"></h1>
+        <h2> Parabéns!</h2>
+        <form>
+          <input
+            type="text"
+            name="username"
+            id="username"
+            placeholder="Digite seu nome"
+          />
+          <button
+            type="submit"
+            class="btn"
+            id="saveScoreBtn"
+            onclick="saveHighScore(event)"
+            disabled
+          >
+            Salvar Pontuação
+          </button>
+        </form>
+        <a class="btn" href="educahans2/game.html">Jogar novamente</a>
+        <a class="btn" href="/">Início</a>
+      </div>
+    </div>
+    <script src="end.js"></script>
+  </body>
+</html>
