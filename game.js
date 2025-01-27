@@ -38,7 +38,8 @@ getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         //go to the end page
-        return window.location.assign('https://reginaldoinacio.github.io/Educahans2/end');
+        return window.location.assign('https://reginaldoinacio.github.io/Educahans2/end.html');
+;
     }
     questionCounter++;
     progressText.innerText = `Pergunta ${questionCounter}/${MAX_QUESTIONS}`;
